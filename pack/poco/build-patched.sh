@@ -1,10 +1,10 @@
 #!/bin/bash 
 
 # <mempo>
-# mempo-title: Fixed poco library against the lib pcre related bug
-# mempo-prio: 2
-# mempo-why: Program FMS was not working (hang/slowdown - sometimes)
-# mempo-bugfix-deb: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=671477
+$mempo_title="Fixed poco library against the lib pcre related bug"
+$mempo_prio="2"
+$mempo_why="Program FMS was not working (hang/slowdown - sometimes)"
+$mempo_bugfix_deb="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=671477"
 # </mempo>
 
 # work in progress - XXX marks debug code

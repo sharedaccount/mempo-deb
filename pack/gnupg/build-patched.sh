@@ -1,10 +1,10 @@
 #!/bin/bash 
 
 # <mempo>
-# mempo-title: Change max key size in gpg-keygen
-# mempo-prio: 2
-# mempo-why: To improve pgp keys security
-# mempo-bugfix-deb: 
+mempo_title="Change max key size in gpg-keygen"
+mempo_prio="3i"
+mempo_why="To improve pgp keys security"
+mempo_bugfix_deb="none"
 # </mempo>
 
 # work in progress - XXX marks debug code

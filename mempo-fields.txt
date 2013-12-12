@@ -11,26 +11,33 @@ Possible levels:
 
 0  - grave bug of System or Indispensable, rendering box bricked
 0s - grave bug for System or Indispensable, in SECURITY, that renders box untrusted
+0i - absolutelly needed improvement for System/Indispensable, without it system is unusable or untrusted
 
 1  - grave bug of System or Indispensable, rendering box not usable but easy repair is possible
 1s - grave bug for System or Indispensable, in SECURITY, but that does not make box permanently untrusted
+1i - absolutelly needed improvement System/Indispensable, without it system has low security
 
 2  - grave bug of System or Indispensable, that make parts of box hard to use, in important uses
 2s - bug for Recommended, that removes security or removes privacy
+2i - needed improvement required for even medium secuirty
 
 3  - bug of System or Indispensable, that make them work incorrect in common or typical uses
 3s - bug for Recommended, that lowers privacy, or any bug that removes security
+3i - needed improvement required for high secuirty, or creation of other main Mempo-feautures
 
 4  - bug of Recommended, that make them work incorrect in common or typical uses
 4s - any bug that removes security or lowers privacy
+4i - recommended improvement for the system, related to Mempo feautures
 
 5  - lesser bug of any of Recommended software, or bug in other software
 5s - bug that can only potentially lower security or privacy
+5i - other improvements for the system
 
 6 - lesser bug in other software
+6i - lesser improvements
 
 7 - trivial update
-
+7i - trivial change or improvement
 
 mempo-why: string
 Short information why this is released, e.g. what bug it fixes
